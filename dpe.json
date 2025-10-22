@@ -1,0 +1,11 @@
+{
+    "name": "DPE",
+    "description": "DPE penguin!",
+    "image": "https://ipfs.io/ipns/k51qzi5uqu5dgpbj11zgrlg0cu7k8w8fr3nffrwmg6z94oyq36ksvv0r5i6f7w",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}
