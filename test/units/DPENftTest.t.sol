@@ -16,7 +16,8 @@ contract DPENftTest is Test {
         dpe = new DPENft(
             DPE_SIDE,
             DPE_FRONT,
-            ' "attributes":[{"trait_type":"cuteness","value":100}]'
+            ' "attributes":[{"trait_type":"cuteness","value":100}]',
+            'dpe'
         );
     }
 
