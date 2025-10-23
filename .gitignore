@@ -3,7 +3,7 @@ cache/
 out/
 
 # Ignores development broadcast logs
-!/broadcast
+/broadcast
 /broadcast/*/31337/
 /broadcast/**/dry-run/
 
@@ -17,7 +17,7 @@ docs/
 
 .DS_Store
 zkout/
-/lib
+lib/
 .keystore
 /img
 /index.html
